@@ -1,7 +1,7 @@
 # Research Notes - "いただきます (Itadakimasu)" by ぴーなた feat. ゲキヤク UTAU
 > Disclaimer:
 > This document is an interpretation of the song's lyrics and music video. The creator has not published an official explanation of the story, so everything below should be considered analytical rather than canonical.
-Lyrics: (./src/ittadakimasu.txt)[Here]
+Lyrics: [./src/ittadakimasu.txt](Here)
 MV: https://www.youtube.com/watch?v=UXyfDadrmh4
 ---
 
