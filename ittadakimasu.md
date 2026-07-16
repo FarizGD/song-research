@@ -9,10 +9,8 @@ MV: https://www.youtube.com/watch?v=UXyfDadrmh4
 
 Title:
 いただきます (Itadakimasu)
-
 Producer:
 ぴーなた (Pinata)
-
 Vocal:
 ゲキヤク (Gekiyaku UTAU)
 
