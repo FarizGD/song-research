@@ -26,7 +26,7 @@ Main Themes:
 - Obsession
 - Attachment
 - Identity
-- Cannibalism (literal or symbolic) <- ok this one im sure it is, correct me if im wrong
+- Cannibalism (literal or symbolic) <- ok this one im not sure, correct me if im wrong
 - Self-hatred
 - Possession
 - Emotional dependency
