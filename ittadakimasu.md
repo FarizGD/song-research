@@ -5,6 +5,8 @@ Lyrics: [Here](./src/ittadakimasu.txt)
 MV: https://www.youtube.com/watch?v=UXyfDadrmh4
 ---
 
+# If theres a misinformation in ts, use: https://github.com/FarizGD/song-research/issues
+
 # Basic Information
 
 Title:
