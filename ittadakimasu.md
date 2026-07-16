@@ -84,13 +84,12 @@ She feels replaceable.
 ## Stage 3 - Meeting the Butterfly Girl
 
 The music video introduces another girl wearing a butterfly hair clip.
-Unlike everyone else, she spends time with the protagonist.
+Unlike everyone else, she spends time (for like, 100 frames in the 30fps mv) with the protagonist.
 
 Scenes include:
-- eating together
-- smiling
-- walking together
-This appears to be the protagonist's first meaningful friendship.
+- walking together hand-by-hand
+
+This appears to be the protagonist's first meaningful friendship. (again, i guess)
 
 ---
 
